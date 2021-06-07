@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cowin/static/css/main.13ea240e.chunk.css",
+    "main.js": "/cowin/static/js/main.ca7ecf28.chunk.js",
+    "main.js.map": "/cowin/static/js/main.ca7ecf28.chunk.js.map",
+    "runtime-main.js": "/cowin/static/js/runtime-main.27c51d9a.js",
+    "runtime-main.js.map": "/cowin/static/js/runtime-main.27c51d9a.js.map",
+    "static/js/2.aea6847e.chunk.js": "/cowin/static/js/2.aea6847e.chunk.js",
+    "static/js/2.aea6847e.chunk.js.map": "/cowin/static/js/2.aea6847e.chunk.js.map",
+    "static/js/3.16344fb5.chunk.js": "/cowin/static/js/3.16344fb5.chunk.js",
+    "static/js/3.16344fb5.chunk.js.map": "/cowin/static/js/3.16344fb5.chunk.js.map",
+    "index.html": "/cowin/index.html",
+    "static/css/main.13ea240e.chunk.css.map": "/cowin/static/css/main.13ea240e.chunk.css.map",
+    "static/js/2.aea6847e.chunk.js.LICENSE.txt": "/cowin/static/js/2.aea6847e.chunk.js.LICENSE.txt",
+    "static/media/covid19logo.2ce6b3ac.jpg": "/cowin/static/media/covid19logo.2ce6b3ac.jpg",
+    "static/media/csc.ef58e8d0.jpeg": "/cowin/static/media/csc.ef58e8d0.jpeg",
+    "static/media/modi.68f2be6e.jpg": "/cowin/static/media/modi.68f2be6e.jpg",
+    "static/media/s1.93a774ec.svg": "/cowin/static/media/s1.93a774ec.svg",
+    "static/media/s2.e58ed379.svg": "/cowin/static/media/s2.e58ed379.svg",
+    "static/media/s3.d7c7b27a.svg": "/cowin/static/media/s3.d7c7b27a.svg",
+    "static/media/s4faqlink.328d4179.png": "/cowin/static/media/s4faqlink.328d4179.png",
+    "static/media/umang.2c3857ae.png": "/cowin/static/media/umang.2c3857ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27c51d9a.js",
+    "static/js/2.aea6847e.chunk.js",
+    "static/css/main.13ea240e.chunk.css",
+    "static/js/main.ca7ecf28.chunk.js"
+  ]
+}
